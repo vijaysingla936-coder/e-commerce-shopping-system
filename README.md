@@ -9,6 +9,9 @@ Made for 1st semester college project.
 - Customer management
 - Order placing and delivery
 - Payment with discount
+- Invoice & Bill Generator
+- Coupon & Festival Offer System
+- Loyalty Points & Referral System
 
 ## Project Modules (6 Files)
 
@@ -18,6 +21,9 @@ Made for 1st semester college project.
 4. Customer.java - Customer details
 5. Payment.java - Payment methods
 6. Order.java - Order confirm and delivery
+7. AdminPanel.java - Admin login, manage products, sales report
+8. InvoiceGenerator.java - GST bill, invoice, email receipt
+9. OfferSystem.java - Coupons, BOGO, Referral, Loyalty
 
 ## How to Run
 Compile: javac Main.java
